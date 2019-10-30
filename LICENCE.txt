@@ -1,0 +1,11 @@
+Copyright Notice for Electimax - Demonstration Version 1.0
+
+This software is protected by UK and international copyright laws. Reproduction and distribution of the software,
+without written permission of the author, is prohibited.
+
+Licence Information
+
+This licence allows you to use this software for demonstration purposes only. Any commercial or personal use of this
+software, such as using it for solving a budgeting problem, is prohibited.
+
+Copyright 2018 - 2019 Daniel W. Grace. All rights reserved.
