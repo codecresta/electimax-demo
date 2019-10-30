@@ -1,3 +1,6 @@
+Electimax
+---------
+
 This file refers to the demonstration version of the software Electimax 1.0.
 
 The software is identical to the full version except that the problem sizes that it can handle are severely limited. The
