@@ -27,6 +27,6 @@ The file "Demo1.emx" can be loaded into the program, and solved using the "tools
 
 See also the PDF manual file and the LICENCE file for further information.
 
-For further information send enquiries to the email address: danwgrace@gmail.com
+Send enquiries to the email address: danwgrace@gmail.com
 
 Copyright 2018 - 2019 Daniel W. Grace. All rights reserved.
