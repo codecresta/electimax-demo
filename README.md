@@ -5,9 +5,9 @@ Electimax is a piece of software designed to solve multiple-choice knapsack prob
 
 This file refers to the demonstration version of the software Electimax 1.0.
 
-The software is identical to the full version except that the problem sizes that it can handle are severely limited,
+The software is similar to the full version except that the problem sizes that it can handle are severely limited,
 also there is a utility function not available in the demonstration version. The full version of the software is
-available, see the contact details below.
+available, and contains some minor improvements that the demonstration version does not have. See the contact details below.
 
 On a Debian based Linux system
 ------------------------------
