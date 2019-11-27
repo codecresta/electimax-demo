@@ -1,15 +1,13 @@
 Electimax
 ---------
 
-Electimax is a piece of software designed to solve multiple-choice knapsack problems. Simply put Electimax allows you to select the optimum combination of items (or projects) from a list of multiple-choices, in order to get the best "bang for buck".
+Electimax is a piece of software designed to solve multiple-choice knapsack problems. Simply put Electimax allows you to select the a combination of items (or projects) from a list of multiple-choices, in order to get the best "bang for buck".
 
 This file refers to the demonstration version of the software Electimax 1.0.
 
 The software is similar to the full version except that the problem sizes that it can handle are severely limited,
 also there is a utility function not available in the demonstration version. The full version of the software is
 available, and contains some minor improvements that the demonstration version does not have. See the contact details below.
-
-Written using Qt and C / C++.
 
 On a Debian based Linux system
 ------------------------------
@@ -34,6 +32,8 @@ To install copy the executable file "Electimax-demo.exe" to a suitable directory
 The file "Demo1.emx" can be loaded into the program, and solved using the "tools" menu.
 
 See also the PDF manual file and the LICENCE file for further information.
+
+Written using Qt and C / C++.
 
 Send enquiries to the email address: danwgrace@gmail.com
 
