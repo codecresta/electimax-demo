@@ -1,7 +1,7 @@
 Electimax
 ---------
 
-Electimax is a piece of software designed to solve multiple-choice knapsack problems. Simply put Electimax allows you to select the a combination of items (or projects) from a list of multiple-choices, in order to get the overall best "bang for buck".
+Electimax is a piece of software designed to solve multiple-choice knapsack problems. Simply put Electimax allows you to select the a combination of items (or "projects") from a series of multiple-choices, in order to get the overall best "bang for buck".
 
 This file refers to the demonstration version of the software Electimax 1.0.
 
